@@ -1,0 +1,58 @@
+  
+    h1{
+    width: 50%;
+    margin-left: 15%;
+    font-size: 5em;
+	color: #FFFFFF;
+	font-family: lato;
+	font-variant: small-caps;
+    }
+    
+    
+	h2{
+    width: 40%;
+	font-family: lato;
+    margin-left: 35%;
+    font-size: 4em;
+    }
+    
+    div.wrapper{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+    }
+    
+    p{
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 2em;
+    }
+    
+    p.blockquote{
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 2em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    p.msquote{
+    font-family: quintessential;
+    font-size: 20px;
+    margin-top: 2em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.title { height: 700px; width: 100%; position: relative; margin: 0 auto;}
+
+.parallax { height: 600px; width: 100%; max-width: 1920px; position: relative; margin: 0 auto;}
+
+#title { background: url(../assets/.jpg) 50% 0 no-repeat fixed; }
+#second { background: url(../assets/failedprint_laberge.jpg) 50% 0 no-repeat fixed; }
+#third { background: url(../assets/eccles_above.jpg) 50% 0 no-repeat fixed; }
+#fourth { background: url(../assets/eccles_side.jpg) 50% 0 no-repeat fixed; }
+#fifth { background: url(../assets/tornado.png) 50% 0 no-repeat fixed; }

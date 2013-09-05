@@ -1,0 +1,71 @@
+	.centerd{
+text-align: center;
+	}
+	
+	.workscited{
+		font-size: 3em;
+		text-align: left;
+	}
+
+	.thing{
+		text-align: center;
+	}
+  
+    h1{
+    width: 50%;
+    margin-left: 5%;
+    font-size: 4em;
+	color: #FFFFFF;
+	font-family: lato;
+	font-variant: small-caps;
+    }
+    
+    
+	h2{
+    width: 40%;
+	font-family: lato;
+    margin-left: 35%;
+    font-size: 3em;
+    }
+    
+    div.wrapper{
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+    }
+    
+    p{
+    font-family: Helvetica;
+    font-size: 3em;
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-left: 1em;
+    }
+    
+    p.blockquote{
+    font-family: Helvetica;
+    font-size: 3em;
+    margin-top: 2em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    p.msquote{
+    font-family: quintessential;
+    font-size: 3em;
+    margin-top: 2em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.title { height: 700px; width: 100%; position: relative; margin: 0 auto;}
+
+.parallax { height: 600px; width: 100%; max-width: 1920px; position: relative; margin: 0 auto;}	
+
+#title { background: url(../assets/DataTornado.png) 50% 0 no-repeat fixed; }
+#second { background: url(../assets/failedprint_laberge.jpg) 50% 0 no-repeat fixed; }
+#third { background: url(../assets/map2.jpg) 50% 0 no-repeat fixed; }
+#fourth { background: url(../assets/map1.jpg) 50% 0 no-repeat fixed; }
+#fifth { background: url(../assets/tornado.png) 50% 0 no-repeat fixed; }
