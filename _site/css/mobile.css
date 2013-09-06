@@ -24,9 +24,10 @@ text-align: center;
 	}
   
     h1{
-    width: 100%;
-    margin-left: 25%;
-    font-size: 7em;
+    margin-top: -1em;
+    width: 90%;
+    margin-left: 5%;
+    font-size: 6em;
 	color: black;
 	font-family: lato,
 	font-variant: small-caps;
@@ -34,10 +35,10 @@ text-align: center;
     
     
 	h2{
-    width: 100%;
+    width: 80%;
 	font-family: lato;
-    margin-left: 40%;
-    font-size: 4em;
+    margin-left: 20%;
+    font-size: 3em;
     color: white;
     }
     
@@ -84,8 +85,3 @@ width: 100%;
 .title { height: 700px; width: 100%; position: relative; margin: 0 auto;}
 
 .parallax { height: 600px; width: 100%; max-width: 1920px; position: relative; margin: 0 auto;}	
-
-#title { background: url(http://axchristie.github.io/z-axis/assets/4_warping.jpg) 100% 100% no-repeat fixed; }
-#second { background: url(http://axchristie.github.io/z-axis/assets/after2.jpg) 50% 0 no-repeat fixed; box-shadow: inset 3px 4px 5px 5px black; }
-#third { background: url(http://axchristie.github.io/z-axis/assets/after1.jpg) 50% 0 no-repeat fixed; box-shadow: inset 3px 4px 5px 5px black;}
-#fourth { background: url(http://axchristie.github.io/z-axis/assets/datatornado.png) 50% 0 no-repeat fixed;}
