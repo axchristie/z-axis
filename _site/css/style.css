@@ -1,19 +1,39 @@
+	a{
+		color: silver;
+	}
+	
+	a:visited{
+		color: silver;
+	}
+	
+	a:hover{
+		color: teal;
+	}
   
     h1{
-    width: 50%;
-    margin-left: 15%;
-    font-size: 5em;
-	color: #FFFFFF;
-	font-family: lato;
+    width: 100%;
+    margin-left: 25%;
+    font-size: 7em;
+	color: black;
+	font-family: lato,
 	font-variant: small-caps;
     }
     
     
 	h2{
-    width: 40%;
+    width: 100%;
 	font-family: lato;
-    margin-left: 35%;
+    margin-left: 40%;
     font-size: 4em;
+    color: white;
+    }
+    
+    h3{
+    margin-left: 1em;
+    font-size: 7em;
+    font-family: lato;
+    font-variant: small-caps;
+    color: teal;
     }
     
     div.wrapper{
@@ -51,8 +71,7 @@
 
 .parallax { height: 600px; width: 100%; max-width: 1920px; position: relative; margin: 0 auto;}
 
-#title { background: url(../assets/.jpg) 50% 0 no-repeat fixed; }
-#second { background: url(../assets/failedprint_laberge.jpg) 50% 0 no-repeat fixed; }
-#third { background: url(../assets/eccles_above.jpg) 50% 0 no-repeat fixed; }
-#fourth { background: url(../assets/eccles_side.jpg) 50% 0 no-repeat fixed; }
-#fifth { background: url(../assets/tornado.png) 50% 0 no-repeat fixed; }
+#title { background: url(../assets/4_warping.jpg) 100% 100% no-repeat fixed; }
+#second { background: url(../assets/after2.jpg) 50% 0 no-repeat fixed; box-shadow: inset 3px 4px 5px 5px black; }
+#third { background: url(../assets/after1.jpg) 50% 0 no-repeat fixed; box-shadow: inset 3px 4px 5px 5px black;}
+#fourth { background: url(../assets/datatornado.png) 50% 0 no-repeat fixed;}
