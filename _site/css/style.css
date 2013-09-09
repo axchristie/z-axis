@@ -72,7 +72,7 @@
 
 .parallax { height: 600px; width: 100%; max-width: 1920px; position: relative; margin: 0 auto;}
 
-#title { background: url(../assets/4_warping.jpg) 100% 100% no-repeat fixed; }
+#title { background: url(../assets/4_warping.jpg) 50% 40% no-repeat fixed; }
 #second { background: url(../assets/after2.jpg) 50% 0 no-repeat fixed; box-shadow: inset 3px 4px 5px 5px black; }
 #third { background: url(../assets/after1.jpg) 50% 0 no-repeat fixed; box-shadow: inset 3px 4px 5px 5px black;}
 #fourth { background: url(../assets/datatornado.png) 50% 0 no-repeat fixed;}
